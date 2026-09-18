@@ -3,7 +3,7 @@
 An interactive sentiment-analysis dashboard built with **Python, VADER, Pandas, Matplotlib, and Streamlit**.
 
 ### 🚀 Live Demo
-**[Try the Live Demo]([YOUR_STREAMLIT_URL](https://ssentimentanalysis.streamlit.app/))**
+**[Try the Live Demo]([https://ssentimentanalysis.streamlit.app/](https://ssentimentanalysis.streamlit.app/))**
 
 ### ✨ Features
 - 💬 Real-time text sentiment analysis
